@@ -1,3 +1,19 @@
+# Version française
+
+# Commencer avec Create React App
+
+Ce projet a été démarré avec [Create React App](https://github.com/facebook/create-react-app).
+
+## Projet Meet Me
+
+Ce projet a pour but de créer un site de rencontre entièrement gratuit pour tout le monde. Il sera créé avec React pour le front et une base de données PostgreSql en back.
+
+## Avancement du projet
+
+- 24 mars 2024 : initialisation du projet.
+
+# English version
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
