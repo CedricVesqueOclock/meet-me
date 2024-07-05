@@ -1,6 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Version française
+Commencer avec Create React App
+Ce projet a été démarré avec Create React App.
+
+## Projet Meet Me
+Ce projet a pour but de créer un site de rencontre entièrement gratuit pour tout le monde. Il sera créé avec React pour le front et une base de données PostgreSql en back.
+
+## Avancement du projet
+05 juillet 2024 : Initialisation du projet.
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 
 First, run the development server:
 
